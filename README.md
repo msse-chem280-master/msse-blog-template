@@ -1,4 +1,4 @@
-# 2019 MSSE Bootcamp Website Template
+# MSSE Bootcamp Blog Site Template
 
 This repo contains files for a website for a UC Berkeley MSSE themed blog.
 
